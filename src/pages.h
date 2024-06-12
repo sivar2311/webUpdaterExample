@@ -1,4 +1,4 @@
 #pragma once
 
-extern const char* serverIndex;
-extern const char* loginIndex;
+extern const char* update_GET;
+extern const char* update_POST;
